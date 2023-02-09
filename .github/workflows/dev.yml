@@ -20,4 +20,4 @@ jobs:
         yarn install --network-concurrency I
 
     - name: Running tests
-      run: yarn tests
+      run: yarn test
